@@ -1,3 +1,3 @@
 # ProjetJava
-Projet java 2I002 BOID
-Lire le pdf pour plus d'informations
+Projet java 2I002 
+Implémentation d'un BOID pour simuler une nuée de poissons
